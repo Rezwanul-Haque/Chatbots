@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:\\Razib\\Workplace\\Chatbots\\building_chatbot_from_scratch\\horoscope_bot\\./models/nlu\\default\\horoscopebot\\intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "E:\\Razib\\Workplace\\Chatbots\\building_chatbot_from_scratch\\horoscope_bot\\./models/nlu\\default\\horoscopebot\\intent_classifier_tensorflow_embedding.ckpt"
