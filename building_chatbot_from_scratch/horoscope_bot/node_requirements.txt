@@ -1,1 +1,1 @@
-rasa-nlu-trainer==0.2.7
+rasa-nlu-trainer@0.2.7
